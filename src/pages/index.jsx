@@ -6,6 +6,7 @@ import { Hero } from '@/components/Hero'
 import { Newsletter } from '@/components/Newsletter'
 import { Product } from '@/components/Product'
 import { Specifivaties } from '@/components/Specificaties'
+
 export default function Home() {
   return (
     <>
